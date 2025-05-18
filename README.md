@@ -38,7 +38,6 @@ The application will start and open in your default web browser.
 # Using the Application
 ## General Controls
 - **Algorithm Selection**: Choose the type of algorithm and specific algorithm to visualize
-- **Dark/Light Mode**: Toggle between dark and light themes for better visibility
 - **Visualization Controls**:
   - Play/Pause: Start or pause the animation
   - Step Forward: Move one step forward in the algorithm
@@ -95,6 +94,12 @@ The application will start and open in your default web browser.
 # Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues to improve the application.
 # ---------------------------------------------
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
+# Copyright and Usage Restrictions
+Copyright © Aaryn Anand 2025
+
+All rights reserved. This code and software are proprietary and confidential.
+No part of this codebase may be reproduced, distributed, or transmitted in any form 
+or by any means without the prior written permission of the copyright owner.
+
+Unauthorized copying, modification, distribution, or use of this code is strictly prohibited.
 
